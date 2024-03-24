@@ -1,0 +1,51 @@
+
+body {
+    background-color: #11050f;
+    
+  }
+
+ .titulo {
+
+ color: aliceblue;
+ font-size: 40px;
+
+}
+
+/* esto me re costo! */
+  .boton {
+    
+    background-color: transparent;
+    border: 2px solid #8473be; 
+    color: #aac7ee; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s; 
+    border-radius: 20px; 
+    font-weight: 700px;
+    font-style: italic;
+ 
+  }
+
+  
+    .boton:hover {
+      background-color: rgba(172, 201, 255, 0.5); 
+  color: #daeaec; 
+
+    }
+
+
+
+    p {
+      color: #ebecee;
+      font: 1em sans-serif;
+    }
+ 
+ .img {
+  border-radius: 30px;
+  border: 2px solid rgb(18, 63, 94);
+  margin: 1px;
+  padding:40px;
+  width: 600px;
+  height: 600;
+ }

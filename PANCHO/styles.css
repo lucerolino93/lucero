@@ -1,0 +1,30 @@
+.bread-top {
+    background-color: rgb(246, 204, 153);
+    height: 70px;
+    border-radius: 50px 50px 20px 20px;
+    border-bottom: 10px solid rgb(187, 135, 71);
+    width: 450px;
+    margin: 0px 100px;
+}
+
+
+
+.salchicha {
+    background-color:  rgb(194, 65, 25);
+    height: 50px;
+    border-radius: 50px 50px 50px 50px;
+    border-bottom: 8px solid rgb(194, 65, 25);
+    width: 500px;
+    margin: 0% 70px;
+  
+}
+
+.bread-botton {
+   
+    background-color: rgb(246, 204, 153);
+    height: 70px;
+    border-radius: 20px 20px 50px 50px;
+    border-top: 10px solid rgb(187, 135, 71);
+    width: 450px;
+    margin: 0px 100px;
+}
