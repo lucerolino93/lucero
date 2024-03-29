@@ -1,0 +1,38 @@
+#uno {
+    background-color: #e69ef2;
+    height: 150px;
+    border: 2px solid #092454;
+    position: static
+}
+#dos {
+    background-color:  #62d0ff;
+    height: 150px;
+    border: 2px solid #092454;
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+#tres {
+    background-color: #ced5db;
+    height: 150px;
+    border: 2px solid #092454;
+    position: fixed;
+    width: 100px;
+    bottom: 100px;
+    right: 100px;
+}
+#cuatro{
+    background-color: #85e38d;
+    height: 150px;
+    border: 2px solid #092454;
+    position: relative
+}
+#cinco {
+    background-color: #d4c200;
+    width: 50px;
+    height: 50px;
+    border:2px solid #092454;
+    position: absolute; top: 50px; left: 25px;
+    
+
+}
