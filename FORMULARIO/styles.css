@@ -1,0 +1,47 @@
+body {
+    background-image: url(FORMULAIMG.png);
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    background-position: center;
+
+}
+
+
+.TITULO {
+    font-size: 90px;
+    font-style: italic;
+    color: #bdb2ff;
+    background-color: #d0f4de;
+    margin: 30px 730px;
+    border-radius: 45px;
+    border-style: solid;
+    border: color(srgb red green blue);
+
+}
+p {
+    font-size: 25px;
+    color: rgb(193, 21, 251);
+    background-color: white;
+    margin: 40px 600px;
+    border-radius: 10px;
+    border-style: solid;
+    border: color(srgb red green blue);
+}
+
+#formulario {
+    font-size: 20px;
+    background-color: azure;
+    margin: 30px 750px;
+    padding: 45px 45px;
+    color: blueviolet;
+    border-radius: 10px;
+    border-style: solid;
+    border: color(srgb red green blue);
+}
+
+.experiencia{
+    text-decoration: underline;
+}
