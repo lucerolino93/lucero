@@ -1,0 +1,56 @@
+.contenedor {
+    display: flex;
+    width: max-content;
+    margin: 10px;
+    border: 2px 300px solid #f80a0a00;
+    justify-content: space-around;
+    
+}
+
+.click {
+    background-color: burlywood;
+    font-size: 30px;
+    text-align: center;
+    line-height: 100px;
+    color: burlywood;
+    width: 10px;
+    padding: 4px 230px;
+
+    
+}
+
+.contenedor2{
+    display: flex;
+    grid-template-columns: auto auto auto;
+    
+     }
+
+.click2 {
+    
+    padding: 2px 100px;
+    border-style: groove solid ridge;
+    color:brown;
+   
+    
+}
+
+#titulo {
+    text-align: center;
+    
+}
+
+.contenedor3 {
+    display: flex;
+    grid-template-columns: auto auto auto;
+    
+
+}
+
+.click3 {
+    padding: 2px 100px;
+    border-style: groove solid ridge;
+    color: rgb(43, 13, 164);
+    
+   
+   
+}

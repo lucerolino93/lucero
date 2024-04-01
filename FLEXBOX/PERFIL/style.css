@@ -1,0 +1,51 @@
+
+body {
+    text-align: center;
+    margin: 50px;
+    padding: 60px;
+    background-color: rgb(114, 64, 179);
+   
+    
+}
+.conteiner {
+    display: flex;
+     justify-content: center;
+     margin-inline: auto;
+   
+
+}
+
+#IMG img{
+    width: 310px;
+    height: auto;
+    border-radius: 20px;
+    justify-content: center;
+     }
+
+
+.logo img{
+    text-align: center;
+    border-radius: 200px;
+    width: 50px;
+    height: auto;
+    border-radius: 20px; 
+}
+
+
+h1 , h3 {
+    text-decoration: solid;
+    color: rgb(207, 27, 162);
+    text-align: center;
+    font-style: italic;
+    
+    
+}
+
+.todo {
+    font-size: 15px;
+    background-color: azure;
+    margin: 10px 330px;
+    padding: 100px;
+    border-radius: 25px 160px;
+    border: 5px solid rgb(214, 47, 173);
+}
