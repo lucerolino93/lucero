@@ -4,6 +4,7 @@ body {
     margin: 50px;
     padding: 60px;
     background-color: rgb(114, 64, 179);
+    display: table-cell;
    
     
 }
