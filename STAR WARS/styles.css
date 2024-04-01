@@ -1,7 +1,7 @@
 body{
     background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
     text-align: center;
-    display: block;
+    display: table-cell;
     margin: 0%;
 }
 
