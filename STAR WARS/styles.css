@@ -1,9 +1,14 @@
+
+   
 body{
     background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
     text-align: center;
     display: table-cell;
-    margin: 0%;
+    display: inline-block;
+    margin: 10px;
+
 }
+    
 
 .TITULO {
     font-size: 3.0em;
@@ -48,4 +53,5 @@ h1{
     text-decoration: underline;
 }
 
-/*me falta colorear el reproductor pero no se como hacerlo :( 
+
+/*LOGRE REPRODUCIR EL AUDIO  :D 

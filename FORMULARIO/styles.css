@@ -1,12 +1,16 @@
 body {
     background-image: url(FORMULAIMG.png);
-    text-align: center;
     font-family: "Sofia", sans-serif;
+    text-align: center;
+    margin:0;
+    padding: 0;
+
+    flex-wrap: nowrap;
     background-size: cover;
-    margin: 0%;
-    padding: 0%;
+    background-repeat: no-repeat; 
     background-position: center;
     display: table-cell;
+    display: inline-block;
    
 
 }
@@ -17,7 +21,7 @@ body {
     font-style: italic;
     color: #bdb2ff;
     background-color: #d0f4de;
-    margin: 30px 730px;
+    margin: 40px 600px;
     border-radius: 45px;
     border-style: solid;
     border: color(srgb red green blue);

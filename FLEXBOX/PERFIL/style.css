@@ -1,11 +1,11 @@
 
 body {
     text-align: center;
-    margin: 50px;
-    padding: 60px;
+    margin: 20px;
+    padding: 0;
     background-color: rgb(114, 64, 179);
     display: table-cell;
-   
+    display: inline-block;
     
 }
 .conteiner {
